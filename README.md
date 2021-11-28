@@ -30,3 +30,9 @@ La chaîne doit se focaliser sur les aspects technologiques des solutions propos
 Si une solution est multi-disciplinaire, seulement l'exposition ainsi que la solution d'un problème qui dépend d'une tiers discipline doit faire partie du contenu audio-visuel de la chaîne.
 
 Selon la demande, le contenu non divulgué pourras faire l'objet de une nouvelle publication.
+
+# Liens Utiles
+
+Edition des circuit: https://www.circuit-diagram.org/editor
+
+Les fichiers se trouvent dans le folder _resources_
